@@ -5,7 +5,7 @@ A draft version is available as [PDF file](https://papers.dice-research.org/2021
 Look up the article at [Google Scholar](https://scholar.google.com/scholar?q=Relicensing+Combined+Datasets).
 - The **presentation slides** can be downloaded as [PDF file](https://papers.dice-research.org/2021/ICSC2021_ReCoDa/Relicensing-Combined-Datasets-ReCoDa-slides-public.pdf).
 - The **demo** can be accessed at [dice-research.org/ReCoDa](https://dice-research.org/ReCoDa).
-- The **code of the demo** is available at [branch demo](https://github.com/dice-group/ReCoDa/tree/demo).
+- The **code of the demo** is available at [branch demo](https://github.com/adibaba/ReCoDa/tree/demo).
 
 
 ## Repository
